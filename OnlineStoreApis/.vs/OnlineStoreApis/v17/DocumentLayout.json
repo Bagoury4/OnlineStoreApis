@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mohamed Elbagory\\Desktop\\OnlineStore Apis\\OnlineStoreApis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C461EA1-2BBB-4E83-8BA7-42C38F735CC8}|OnlineStoreApis.csproj|c:\\users\\mohamed elbagory\\desktop\\onlinestore apis\\onlinestoreapis\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C461EA1-2BBB-4E83-8BA7-42C38F735CC8}|OnlineStoreApis.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB88E967-DB94-4962-B75B-CB8E6CB1F0DF}|..\\Store.Service\\Store.Service.csproj|c:\\users\\mohamed elbagory\\desktop\\onlinestore apis\\store.service\\services\\product\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCA2A5B-38DB-4E99-8996-B6A552AAB90C}|..\\Store.Core\\Store.Core.csproj|c:\\users\\mohamed elbagory\\desktop\\onlinestore apis\\store.core\\services.contract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C461EA1-2BBB-4E83-8BA7-42C38F735CC8}|OnlineStoreApis.csproj|c:\\users\\mohamed elbagory\\desktop\\onlinestore apis\\onlinestoreapis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C461EA1-2BBB-4E83-8BA7-42C38F735CC8}|OnlineStoreApis.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCA2A5B-38DB-4E99-8996-B6A552AAB90C}|..\\Store.Core\\Store.Core.csproj|c:\\users\\mohamed elbagory\\desktop\\onlinestore apis\\store.core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A91901CB-15CF-4DA7-957B-B81B432D7545}|..\\Store.Repository\\Store.Repository.csproj|c:\\users\\mohamed elbagory\\desktop\\onlinestore apis\\store.repository\\data\\storedbcontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCA2A5B-38DB-4E99-8996-B6A552AAB90C}|..\\Store.Core\\Store.Core.csproj|c:\\users\\mohamed elbagory\\desktop\\onlinestore apis\\store.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed Elbagory\\Desktop\\OnlineStore Apis\\Store.Core\\Services.contract\\IProductService.cs",
+              "RelativeDocumentMoniker": "..\\Store.Core\\Services.contract\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Mohamed Elbagory\\Desktop\\OnlineStore Apis\\Store.Core\\Services.contract\\IProductService.cs",
+              "RelativeToolTip": "..\\Store.Core\\Services.contract\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T17:46:41.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed Elbagory\\Desktop\\OnlineStore Apis\\OnlineStoreApis\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Mohamed Elbagory\\Desktop\\OnlineStore Apis\\OnlineStoreApis\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T17:26:55.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed Elbagory\\Desktop\\OnlineStore Apis\\Store.Service\\Services\\Product\\ProductService.cs",
+              "RelativeDocumentMoniker": "..\\Store.Service\\Services\\Product\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Mohamed Elbagory\\Desktop\\OnlineStore Apis\\Store.Service\\Services\\Product\\ProductService.cs",
+              "RelativeToolTip": "..\\Store.Service\\Services\\Product\\ProductService.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowDEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T23:46:13.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed Elbagory\\Desktop\\OnlineStore Apis\\Store.Core\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "..\\Store.Core\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Mohamed Elbagory\\Desktop\\OnlineStore Apis\\Store.Core\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "..\\Store.Core\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:29:53.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed Elbagory\\Desktop\\OnlineStore Apis\\Store.Core\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "..\\Store.Core\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Mohamed Elbagory\\Desktop\\OnlineStore Apis\\Store.Core\\Entities\\Product.cs",
+              "RelativeToolTip": "..\\Store.Core\\Entities\\Product.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T01:56:02.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed Elbagory\\Desktop\\OnlineStore Apis\\OnlineStoreApis\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Mohamed Elbagory\\Desktop\\OnlineStore Apis\\OnlineStoreApis\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAgwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T01:46:59.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StoreDbContextSeed.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed Elbagory\\Desktop\\OnlineStore Apis\\Store.Repository\\Data\\StoreDbContextSeed.cs",
+              "RelativeDocumentMoniker": "..\\Store.Repository\\Data\\StoreDbContextSeed.cs",
+              "ToolTip": "C:\\Users\\Mohamed Elbagory\\Desktop\\OnlineStore Apis\\Store.Repository\\Data\\StoreDbContextSeed.cs",
+              "RelativeToolTip": "..\\Store.Repository\\Data\\StoreDbContextSeed.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAADkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T01:10:57.581Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
